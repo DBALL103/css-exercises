@@ -2,6 +2,10 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.container {
+  display: flex;
+}
+
 img {
   width: 100px;
   height: 100px;
@@ -25,4 +29,11 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.text {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  text-align: center;
 }
