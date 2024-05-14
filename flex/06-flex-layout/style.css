@@ -29,6 +29,7 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  /* margin: 20px; */
 }
 
 .left-links {
@@ -41,6 +42,7 @@ input {
   display: flex; 
   gap: 20px;
   /* justify-content: flex-end; */
+  margin-right: 40px;
 }
 
 ul {
