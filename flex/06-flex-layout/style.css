@@ -29,19 +29,17 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
-  /* margin: 20px; */
+  font-size: small;
 }
 
 .left-links {
   display: flex;
   gap: 20px;
-  /* justify-content: flex-start;  */
 }
 
 .right-links {
   display: flex; 
   gap: 20px;
-  /* justify-content: flex-end; */
   margin-right: 40px;
 }
 
