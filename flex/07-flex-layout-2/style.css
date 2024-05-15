@@ -30,8 +30,11 @@ body {
 
 .container {
   display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
 .container-main {
-  display: flex;
+  /* display: flex; */
+  gap: 20px;
 }
